@@ -3,4 +3,6 @@ body {
 }
 a {
   text-decoration: none;
+  text-align: left;
+  padding-right: 100px;
 }
